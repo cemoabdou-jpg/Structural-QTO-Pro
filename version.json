@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.0",
   "releaseDate": "2026-10-01",
-  "downloadUrl": "https://github.com/YOUR_USERNAME/Structural-QTO-Pro/releases/download/v1.0.1/StructuralQTOPro_Setup.exe",
-  "changelog": "1. إضافة محرك ربط المحاور الإنشائية الأوتوماتيكي.\n2. تحسين سرعة الحصر للأسقف الكبيرة بنسبة 40%.\n3. معالجة وتطهير الجداول المتراكمة بنقرة واحدة."
+  "downloadUrl": "https://github.com/cemoabdou-jpg/Structural-QTO-Pro/releases/download/v1.0.0/StructuralQTOPro_Setup.exe",
+  "changelog": "الإصدار التجاري الأول:\n- حصر الخرسانات والقواعد والأسقف والكمرات.\n- حصر الشدات وألواح البلايود والجكات.\n- حصر الحفر والردم الصافي مع ميول التربة.\n- رسم وحصر الخزانات المسلحة وتوليد مجسمات 3D BIM.\n- ربط العناصر بالمحاور الإنشائية وتصدير OpenBIM IFC."
 }
