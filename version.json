@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "releaseDate": "2026-10-01",
   "downloadUrl": "https://github.com/cemoabdou-jpg/Structural-QTO-Pro/releases/download/v1.0.0/StructuralQTOPro_Setup.exe",
   "changelog": "الإصدار التجاري الأول:\n- حصر الخرسانات والقواعد والأسقف والكمرات.\n- حصر الشدات وألواح البلايود والجكات.\n- حصر الحفر والردم الصافي مع ميول التربة.\n- رسم وحصر الخزانات المسلحة وتوليد مجسمات 3D BIM.\n- ربط العناصر بالمحاور الإنشائية وتصدير OpenBIM IFC."
