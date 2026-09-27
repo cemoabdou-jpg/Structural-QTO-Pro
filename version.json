@@ -1,7 +1,7 @@
 {
   "version": "1.0.1",
   "releaseDate": "2026-09-27",
-  "downloadUrl": "https://github.com/cemoabdou-jpg/Structural-QTO-Pro/releases/download/v1.0.1/StructuralQTO_160600.dll",
-  "changelog": "- حل مشكلة التراخيص والمدد المختلفة.\n- تحسين سرعة الحصر وتوليد مجسمات الـ 3D.\n- تحديث محرك ربط المحاور الإنشائية.",
+  "downloadUrl": "https://github.com/cemoabdou-jpg/Structural-QTO-Pro/releases/download/v1.0.1/StructuralQTO_Setup.exe",
+  "changelog": "- التحديث التلقائي الشامل عبر برنامج التثبيت.\n- التوافق التلقائي مع أوتوكاد دون الحاجة لـ NETLOAD.\n- نظام التراخيص الذكي وفق الفترات الزمنية.",
   "revoked": []
 }
